@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CharlieJ2005
+- 👀 I’m interested in computers, programming and sustainability
+- 🌱 I’m currently learning various things here an there
+- 💞️ I’m looking to collaborate on nothing much at the moment
+- 📫 How to reach me is a secret
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know you're reading this right now (jk haha)
