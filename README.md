@@ -2,7 +2,7 @@
 Hi, I'm a first-year (going into second) CSE Bachelor's student at TU/e. I'm interested in building my programming skills and will be working on various projects this summer. Feel free to take a look at what I've got going on (though a good chunk of my repos are private) :)
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charliej2005) 
 
 # Tech Stack:
