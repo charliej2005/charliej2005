@@ -1,9 +1,6 @@
 # About Me:
 Hi, I'm a second-year CSE Bachelor's student at TU/e. I'm interested in building my programming skills and will be working on various projects throughout the year. Feel free to take a look at what I've got going on (though a good chunk of my repos are private) :)
 
-I recently finished working through the Python and Go Back-end Developer Path on [Boot.dev](https://www.boot.dev/u/charliej2005), so feel free to take a look at some of the [projects](https://github.com/stars/charliej2005/lists/boot-dev) I made as part of the course.
-
-
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charliej2005)
 
